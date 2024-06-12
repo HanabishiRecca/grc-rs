@@ -172,7 +172,7 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
     let config_paths = [
         "/etc/grc.conf",
         "~/.grc",
-        "~/.config/grc/grc",
+        "~/.config/grc/grc.conf",
         "/etc/grc-rs.conf",
         "~/.grc-rs",
         "~/.config/grc-rs/grc-rs",
