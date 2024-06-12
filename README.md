@@ -1,5 +1,3 @@
-[![Build Status](https://github.com/larsch/grc-rs/actions/workflows/rust.yml/badge.svg)](https://github.com/larsch/grc-rs/actions/workflows/rust.yml)
-
 # grc-rs
 
 ## Description
@@ -13,19 +11,6 @@ Colouring rules work as good as 'grc'. Replacement/skip/count not yet
 implemented.
 
 ## Installation
-
-Installation via cargo will give you the binary, but not the man page and `zsh`
-shell completion script.
-
-```sh
-cargo install grc-rs
-```
-
-From AUR:
-
-```sh
-yay -S grc-rs
-```
 
 Or manually, which will also install man page and zsh completions:
 
